@@ -1242,6 +1242,6 @@ atomic不支持拷贝复制和拷贝赋值运算符，可以使用load()读atomi
 
 ## 结语
 
-本文主要是根据网易云课堂[课程链接](https://study.163.com/course/courseMain.htm?courseId=1006067356)，学习总结而来，包括了课程中的绝大部分代码，代码都经过实际运行测验，全文代码地址：，后续将根据所学知识实现一个线程池的项目，完成也会同步到github中。
+本文主要是根据网易云课堂[课程链接](https://study.163.com/course/courseMain.htm?courseId=1006067356)，学习总结而来，包括了课程中的绝大部分代码，代码都经过实际运行测验，全文代码地址：https://github.com/wlonging/ThreadLearning，后续将根据所学知识实现一个线程池的项目，完成也会同步到github中。
 
 如有问题，欢迎大家留言交流。
