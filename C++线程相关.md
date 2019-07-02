@@ -1230,8 +1230,6 @@ atomic不支持拷贝复制和拷贝赋值运算符，可以使用load()读atomi
 
 ### 13.2 线程池
 
-### 13.2 线程池
-
 场景：人数比较多的网络游戏，不可能给每个玩家都提供一个线程
 
 线程池：把一组线程放在一起，统一管理，循环利用
@@ -1240,8 +1238,12 @@ atomic不支持拷贝复制和拷贝赋值运算符，可以使用load()读atomi
 
 线程池数量：需要进行测试，得到比较好的效率，过多会因为线程切换造成效率低下，过少则不能充分发挥计算机的资源
 
+> 源代码：myThreadPool
+>
+> 仿照这个链接实现：https://github.com/lzpong/threadpool
+
 ## 结语
 
-本文主要是根据网易云课堂[课程链接](https://study.163.com/course/courseMain.htm?courseId=1006067356)，学习总结而来，包括了课程中的绝大部分代码，代码都经过实际运行测验，全文代码地址：https://github.com/wlonging/ThreadLearning，后续将根据所学知识实现一个线程池的项目，完成也会同步到github中。
+本文主要是根据网易云课堂[课程链接](https://study.163.com/course/courseMain.htm?courseId=1006067356)，学习总结而来，包括了课程中的绝大部分代码，代码都经过实际运行测验，全文代码地址：https://github.com/wlonging/ThreadLearning，包含线程相关知识和一个线程池的项目。
 
 如有问题，欢迎大家留言交流。
