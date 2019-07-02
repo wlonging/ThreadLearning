@@ -1,5 +1,5 @@
 ﻿  myThreadPool.cpp
-f:\c++\mythreadpool\mythreadpool\mythreadpool.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
-f:\c++\mythreadpool\mythreadpool\mythreadpool.cpp(20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
-f:\c++\mythreadpool\mythreadpool\mythreadpool.cpp(37): warning C4101: “a”: 未引用的局部变量
-  myThreadPool.vcxproj -> F:\C++\myThreadPool\Debug\myThreadPool.exe
+f:\c++\threadlearning\mythreadpool\mythreadpool\mythreadpool.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
+f:\c++\threadlearning\mythreadpool\mythreadpool\mythreadpool.cpp(20): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::thread::id”
+f:\c++\threadlearning\mythreadpool\mythreadpool\mythreadpool.cpp(37): warning C4101: “a”: 未引用的局部变量
+  myThreadPool.vcxproj -> F:\C++\ThreadLearning\myThreadPool\Debug\myThreadPool.exe

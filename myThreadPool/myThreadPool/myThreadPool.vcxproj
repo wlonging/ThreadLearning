@@ -152,7 +152,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="threadpool.h" />
-    <ClInclude Include="Threadpool2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="myThreadPool.cpp" />

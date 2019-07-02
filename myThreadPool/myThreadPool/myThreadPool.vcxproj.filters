@@ -23,8 +23,5 @@
     <ClInclude Include="threadpool.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Threadpool2.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
